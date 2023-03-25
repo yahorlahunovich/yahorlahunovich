@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Front-End Developer who works with ReactJS. I work hard and enjoy learning new technologies. I am passionate about React.
+
+### 🔧 Technologies & Tools
+
 <!--
 **egorlagunovich/egorlagunovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
