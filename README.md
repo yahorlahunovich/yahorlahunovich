@@ -1,18 +1,36 @@
-#Hi there 👋
+###<h1>Hi there 👋</h1>
 
-I am a Front-End Developer who works with ReactJS. I work hard and enjoy learning new technologies. I am passionate about React.
+<p>I am a Front-End Developer who works with ReactJS. I work hard and enjoy learning new technologies. I am passionate about React.</p>
 
-#🔧 Technologies & Tools
+###<h1>🔧 Technologies & Tools</h1>
 <table>
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg)"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
         height="48"
         alt="HTML"
       />
-      <br /><strong>TypeScript</strong>
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JS"
+      />
+      <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -22,6 +40,15 @@ I am a Front-End Developer who works with ReactJS. I work hard and enjoy learnin
         alt="React"
       />
       <br /><strong>React</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
