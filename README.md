@@ -66,7 +66,7 @@
         height="48"
         alt="TailwindCSS"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>TailwindCSS</strong>
     </td>
    <td align="center" height="108" width="108">
       <img
