@@ -7,15 +7,6 @@
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="NEXTJS"
-      />
-      <br /><strong>Next</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
         height="48"
@@ -67,6 +58,15 @@
         alt="Redux"
       />
       <br /><strong>Redux</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="NEXTJS"
+      />
+      <br /><strong>Next</strong>
     </td>
      <td align="center" height="108" width="108">
       <img
