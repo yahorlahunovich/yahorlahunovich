@@ -8,8 +8,8 @@
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
+        width="80"
+        height="80"
         alt="HTML"
       />
       <br /><strong>HTML</strong>
@@ -17,8 +17,8 @@
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
+        width="80"
+        height="80"
         alt="CSS"
       />
       <br /><strong>CSS</strong>
@@ -26,8 +26,8 @@
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
+        width="80"
+        height="80"
         alt="JS"
       />
       <br /><strong>JavaScript</strong>
@@ -35,8 +35,8 @@
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="48"
-        height="48"
+        width="80"
+        height="80"
         alt="TS"
       />
       <br /><strong>TypeScript</strong>
