@@ -5,7 +5,7 @@
 <h1>🔧 Technologies & Tools</h1>
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="180" width="180">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="80"
@@ -14,7 +14,7 @@
       />
       <br /><strong>HTML</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="180" width="180">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="80"
@@ -23,7 +23,7 @@
       />
       <br /><strong>CSS</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="180" width="180">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="80"
@@ -32,7 +32,7 @@
       />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="180" width="180">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="80"
@@ -41,58 +41,58 @@
       />
       <br /><strong>TypeScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="180" width="180">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
+        width="80"
+        height="80"
         alt="React"
       />
       <br /><strong>React</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="180" width="180">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="48"
-        height="48"
+        width="80"
+        height="80"
         alt="Redux"
       />
       <br /><strong>Redux</strong>
     </td>
-     <td align="center" height="108" width="108">
+     <td align="center" height="180" width="180">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
+        width="80"
+        height="80"
         alt="NEXTJS"
       />
       <br /><strong>Next</strong>
     </td>
-     <td align="center" height="108" width="108">
+     <td align="center" height="180" width="180">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-        width="48"
-        height="48"
+        width="80"
+        height="80"
         alt="Git"
       />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="180" width="180">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="48"
-        height="48"
+        width="80"
+        height="80"
         alt="TailwindCSS"
       />
       <br /><strong>TailwindCSS</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="180" width="180">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"
-        width="48"
-        height="48"
+        width="80"
+        height="80"
         alt="Python"
       />
       <br /><strong>Python</strong>
