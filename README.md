@@ -23,7 +23,7 @@
       />
       <br /><strong>CSS</strong>
     </td>
-    <td align="center" height="140" width="140">
+    <td align="center" height="140" width="139">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="80"
