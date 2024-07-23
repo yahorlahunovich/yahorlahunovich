@@ -1,118 +1,32 @@
 <h2>👋 Hello there!</h2>
 
 <p>
-Welcome!
+I'm Yahor, a data scientist from Belarus, currently living in Warsaw, Poland.
 <br>
-I'm Yahor, developer from  Belarus, currently living in  Warsaw, Poland. I am passionate about data.</p>
+I love data.
+</p>
 
-<h1>🔧 Technologies & Tools</h1>
-<table>
-  <tr>
-    <td align="center" height="140" width="140">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="80"
-        height="80"
-        alt="HTML"
-      />
-      <br /><strong>HTML</strong>
-    </td>
-    <td align="center" height="140" width="140">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="80"
-        height="80"
-        alt="CSS"
-      />
-      <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="140" width="139">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="80"
-        height="80"
-        alt="JS"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="140" width="140">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="80"
-        height="80"
-        alt="TS"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="140" width="140">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="80"
-        height="80"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="140" width="140">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="80"
-        height="80"
-        alt="Redux"
-      />
-      <br /><strong>Redux</strong>
-    </td>
-     <td align="center" height="140" width="140">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="80"
-        height="80"
-        alt="NEXTJS"
-      />
-      <br /><strong>Next</strong>
-    </td>
-     <td align="center" height="140" width="140">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-        width="80"
-        height="80"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="140" width="140">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="80"
-        height="80"
-        alt="TailwindCSS"
-      />
-      <br /><strong>TailwindCSS</strong>
-    </td>
-    <td align="center" height="140" width="140">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"
-        width="80"
-        height="80"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-  </tr>
-</table>
-<!--
-**egorlagunovich/egorlagunovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🛠️ Tech Toolbox</h3> 
+<ul>
+  <li><strong>Languages:</strong> Python, R, Java, TypeScript, JavaScript.</li>
+  <li><strong>Frameworks & Libraries:</strong> PyTorch, Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, React, Redux, Next.js.</li>
+  <li><strong>Tools:</strong> Git, Linux.</li>
+</ul>
 
-Here are some ideas to get you started:
+<h3>📫 How to reach me:</h3>
+<p>
+  <a href="https://github.com/yahorlahunovich" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yahorlahunovich" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:egorlagunovich@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>📚 I’m currently studying at Warsaw University of Technology.
+  <br>
+🚀 Fun fact: My personal record for solving a Rubik's Cube is 4.64 seconds.</p>
