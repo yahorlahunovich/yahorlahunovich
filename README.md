@@ -1,6 +1,6 @@
-<h1>Hi there 👋</h1>
+<h1>Hi there. I'm Yahor. 👋</h1>
 
-<p>I am a Front-End Developer who works with ReactJS. I work hard and enjoy learning new technologies. I am passionate about React.</p>
+<p>I am passionate about data.</p>
 
 <h1>🔧 Technologies & Tools</h1>
 <table>
