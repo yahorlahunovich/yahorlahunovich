@@ -1,6 +1,9 @@
-<h1>Hi there. I'm Yahor. 👋</h1>
+<h2>👋 Hello there!</h2>
 
-<p>I am passionate about data.</p>
+<p>
+Welcome!
+<br>
+I'm Yahor, developer from  Belarus, currently living in  Warsaw, Poland. I am passionate about data.</p>
 
 <h1>🔧 Technologies & Tools</h1>
 <table>
