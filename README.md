@@ -6,7 +6,7 @@ I'm Yahor, a data scientist from Belarus, currently living in Warsaw, Poland.
 I love data.
 </p>
 
-<h2>🛠️ Tech Toolbox</h2> 
+<h2>🛠️ Tech Toolbox:</h2> 
 <ul>
   <li><strong>Programming Languages:</strong> Python, R, Java, TypeScript, JavaScript.</li>
   <li><strong>Data Science:</strong> PyTorch, Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy.</li>
