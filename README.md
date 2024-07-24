@@ -8,9 +8,11 @@ I love data.
 
 <h2>🛠️ Tech Toolbox</h2> 
 <ul>
-  <li><strong>Languages:</strong> Python, R, Java, TypeScript, JavaScript.</li>
-  <li><strong>Frameworks & Libraries:</strong> PyTorch, Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, React, Redux, Next.js.</li>
+  <li><strong>Programming Languages:</strong> Python, R, Java, TypeScript, JavaScript.</li>
+  <li><strong>Data Science:</strong> PyTorch, Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy.</li>
+  <li><strong>Front-end:</strong> React, Redux, Next, TailwindCSS.</li>
   <li><strong>Tools:</strong> Git, Linux.</li>
+  <li><strong>Languages:</strong> English, Polish, Italian, Russian, Belarusian.</li>
 </ul>
 
 <h2>📫 How to reach me:</h2>
