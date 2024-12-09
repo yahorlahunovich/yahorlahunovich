@@ -9,7 +9,7 @@ I love data.
 <h2>🛠️ Tech Toolbox:</h2> 
 <ul>
   <li><strong>Programming Languages:</strong> Python, R, Java, TypeScript, JavaScript.</li>
-  <li><strong>Data Science:</strong> PyTorch, Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy.</li>
+  <li><strong>Data Science:</strong> PyTorch, Scikit-learn, Dplyr, Ggplot2, SQL.</li>
   <li><strong>Front-end:</strong> React, Redux, Next, TailwindCSS.</li>
   <li><strong>Tools:</strong> Git, Linux.</li>
   <li><strong>Languages:</strong> English, Polish, Italian, Russian, Belarusian.</li>
